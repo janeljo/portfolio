@@ -20,6 +20,10 @@ section {
   padding: 0 1rem;
 }
 
+h1 {
+  color: white;
+}
+
 h2 {
   color: #4a90e2;
 }
